@@ -1,0 +1,36 @@
+body {
+    background-color: #f8f9fa;
+}
+.sidebar {
+    min-height: 100vh;
+    background-color: #343a40;
+    color: #fff;
+}
+.sidebar a {
+    color: #adb5bd;
+    text-decoration: none;
+    display: block;
+    padding: 10px 15px;
+    transition: background-color 0.2s;
+}
+.sidebar a:hover {
+    background-color: #495057;
+    color: #fff;
+}
+.sidebar .active {
+    background-color: #495057;
+    color: #fff;
+}
+.nav-item {
+    margin: 15px 0;
+}
+.btn-custom {
+    background-color: #0d6efd;
+    color: #fff;
+}
+
+table td {
+    word-wrap: break-word;
+    white-space: normal;
+    max-width: 200px;
+}

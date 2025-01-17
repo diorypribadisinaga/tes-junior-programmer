@@ -1,0 +1,5 @@
+### GET api data test
+POST https://recruitment.fastprint.co.id/tes/api_tes_programmer
+Content-Type: application/x-www-form-urlencoded
+
+username=tesprogrammer160125C01&password=5b34e0a0b83877bffc5860a9662aec4e
