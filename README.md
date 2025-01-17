@@ -35,6 +35,10 @@ Berikut adalah langkah-langkah instalasi dan cara menjalankan aplikasi.
       DB_USERNAME=#username
       DB_PASSWORD=#password
       ```
+    - Selanjutnya generate app key
+      ```shell
+      php artisan key:generate
+      ```
 4. **Jalankan migrasi tabel:**
    Jalankan perintah untuk membuat tabel:
     ```shell
